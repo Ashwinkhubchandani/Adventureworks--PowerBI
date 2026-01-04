@@ -2,6 +2,7 @@
 Power BI sales dashboard built using the AdventureWorks dataset. The project uses cloud technology with data stored in AWS S3.
 
 Overview
+
 Developed a comprehensive BI solution for AdventureWorks Cycles, a fictional global bicycle manufacturer and retailer using Power BI. The project involved transforming raw sales and returns data into meaningful insights through data extraction, modeling, calculation, and visualization.
 
 1. Connecting & Shaping Data
